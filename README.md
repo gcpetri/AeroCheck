@@ -50,8 +50,8 @@ model = Model(inputs=baseModel.input, outputs=headModel)</br>...</br>
 * pubspec.yaml</br>
 
 >**Run Mask Recognition Model in Python**
->* Ensure you have a Python virtual environment at your disposal (eg. Jupyter Notebook)
->* Run the train.py script with the data set in the appropriate directory
+>* Ensure you have a Python virtual environment at your disposal (eg. Jupyter Notebook, VSCode, PyCharm)
+>* Run the training.py script with the data set in the appropriate directory
 
 >**Download Executables**</br>
 > We are still in the detailed development stage of these systems ... no executables are currently available.</br>
