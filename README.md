@@ -3,9 +3,22 @@ AeroCheck -- American Airlines Challenge
 
 # AeroCheck
 
+## Inspiration
+
+Due to COVID panic and restrictions, airline sales are down, flight attendant stress is high - even for their own safety, and the public seems to need an incentive to fly. That's where AeroCheck comes in...
+
 ## Introduction
 
-> Due to COVID panic and restrictions, airline sales are down, flight attendant stress is high - even for their own safety, and the public seems to need an incentive to fly. That's where AeroCheck comes in...
+> Due to COVID panic and restrictions, airline sales are down as people are isolating. Flight attendants are worried for their own health and how they can monitor passengers safety up to standards. The public seems to need an incentive to fly.
+>Introducing **AeroCheck**</br>
+Our software utilizes machine learning algorithms to implement facial recognition and mask detection. When a face is detected with without a mask on the aircraft, our software will quickly notify flight attendants, while incentivizing customers who wear their mask throughout the flight with travel points.</br>
+
+Watch are video to get a deeper understanding of this revolutionary airline system</br>
+https://youtu.be/oR53ZkGLXKs </br>
+
+Check out our AeroCheck website and devpost to get the full experience
+* https://aerocheck.space/
+* https://devpost.com/software/aerocheck
 
 ## Code Samples
 
@@ -50,8 +63,8 @@ model = Model(inputs=baseModel.input, outputs=headModel)</br>...</br>
 * pubspec.yaml</br>
 
 >**Run Mask Recognition Model in Python**
->* Ensure you have a Python virtual environment at your disposal (eg. Jupyter Notebook, VSCode, PyCharm)
->* Run the training.py script with the data set in the appropriate directory
+>* Ensure you have a Python virtual environment at your disposal (eg. Jupyter Notebook)
+>* Run the train.py script with the data set in the appropriate directory
 
 >**Download Executables**</br>
 > We are still in the detailed development stage of these systems ... no executables are currently available.</br>
