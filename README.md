@@ -3,6 +3,8 @@ AeroCheck -- American Airlines Challenge
 
 # AeroCheck
 
+<img src="../aerocheck_adv.PNG?raw=true" width="100" height="100" />
+
 ## Inspiration
 
 Due to COVID panic and restrictions, airline sales are down, flight attendant stress is high - even for their own safety, and the public seems to need an incentive to fly. That's where AeroCheck comes in...
