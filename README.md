@@ -3,7 +3,7 @@ AeroCheck -- American Airlines Challenge
 
 # AeroCheck
 
-<img src="../aerocheck_adv.PNG?raw=true" width="100" height="100" />
+<img src="aerocheck_adv.PNG?raw=true" width="100" height="100" />
 
 ## Inspiration
 
