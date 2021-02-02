@@ -4,7 +4,7 @@ AeroCheck -- American Airlines Challenge
 # AeroCheck
 
 </br>
-![Screenshot](aerocheck_adv.PNG)
+![alt text](https://github.com/gcpetri/TAMUHack_2021/blob/main/aerocheck_adv.PNG)
 </br>
 
 ## Inspiration
