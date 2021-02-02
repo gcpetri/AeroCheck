@@ -3,7 +3,7 @@ AeroCheck -- American Airlines Challenge
 
 # AeroCheck
 
-<img src="aerocheck_adv.PNG?raw=true" width="100" height="100" />
+<img src="aerocheck_adv.PNG?raw=true" width="800" height="400" />
 
 ## Inspiration
 
@@ -73,6 +73,3 @@ model = Model(inputs=baseModel.input, outputs=headModel)</br>...</br>
 >Look out for updates AeroCheck app deployment and the MaskRecognition model hosting on AWS
 
 
-</br>
-![plot](aerocheck_adv.PNG)
-</br>
