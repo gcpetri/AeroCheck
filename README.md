@@ -4,7 +4,7 @@ AeroCheck -- American Airlines Challenge
 # AeroCheck
 
 <img src="aerocheck_adv.PNG?raw=true" width="800" height="400" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Helping both sides of the isle._</br>
+**Helping both sides of the isle.**
 
 ## Inspiration
 
