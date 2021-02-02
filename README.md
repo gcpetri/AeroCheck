@@ -3,10 +3,6 @@ AeroCheck -- American Airlines Challenge
 
 # AeroCheck
 
-</br>
-![plot](aerocheck_adv.PNG)
-</br>
-
 ## Inspiration
 
 Due to COVID panic and restrictions, airline sales are down, flight attendant stress is high - even for their own safety, and the public seems to need an incentive to fly. That's where AeroCheck comes in...
@@ -73,3 +69,8 @@ model = Model(inputs=baseModel.input, outputs=headModel)</br>...</br>
 >**Download Executables**</br>
 > We are still in the detailed development stage of these systems ... no executables are currently available.</br>
 >Look out for updates AeroCheck app deployment and the MaskRecognition model hosting on AWS
+
+
+</br>
+![plot](aerocheck_adv.PNG)
+</br>
