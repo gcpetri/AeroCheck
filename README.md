@@ -4,8 +4,7 @@ AeroCheck -- American Airlines Challenge
 # AeroCheck
 
 </br>
-![alt text](aerocheck.PNG)
-
+![plot](./aerocheck.PNG)
 </br>
 
 ## Inspiration
