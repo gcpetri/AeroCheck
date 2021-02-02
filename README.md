@@ -2,7 +2,7 @@
 AeroCheck -- American Airlines Challenge
 
 # AeroCheck
-![alt text](aerocheck_adv.png?raw=true)
+![alt text](./aerocheck_adv.png?raw=true)
 
 ## Inspiration
 
